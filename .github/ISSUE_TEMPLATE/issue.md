@@ -2,7 +2,7 @@
 name: Issue
 about: A small, generic, informal self-contained unit of work
 title: "[ISSUE]"
-labels: ''
+labels: 'issue/general'
 assignees: ''
 
 ---
