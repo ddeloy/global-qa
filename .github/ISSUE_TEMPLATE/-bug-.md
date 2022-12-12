@@ -1,5 +1,5 @@
 ---
-name: BUG
+name: :ladybug:
 about: Report a flaw
 title: "[BUG]"
 labels: ''
