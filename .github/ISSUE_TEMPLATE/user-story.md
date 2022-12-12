@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: A small, self-contained unit of work
+about: A small, user-centric self-contained unit of work
 title: "[USER STORY]"
 labels: issue/user-story
 assignees: ''
