@@ -1,7 +1,7 @@
 ---
 name: :Bug
 about: Report a flaw
-title: ":ladybug:[BUG]"
+title: "[BUG]"
 labels: ''
 assignees: ''
 
