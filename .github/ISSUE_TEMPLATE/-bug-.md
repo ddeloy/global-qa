@@ -1,5 +1,5 @@
 ---
-name: "[BUG]"
+name: "BUG"
 about: Report a flaw
 title: "[BUG]"
 labels: ''
