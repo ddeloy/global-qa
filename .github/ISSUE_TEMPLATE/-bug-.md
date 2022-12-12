@@ -1,7 +1,7 @@
 ---
 name: "[BUG]"
 about: Report a flaw
-title: '[BUG]'
+title: "[BUG]"
 labels: ''
 assignees: ''
 
